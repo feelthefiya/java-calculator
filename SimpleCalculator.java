@@ -24,7 +24,7 @@ public class SimpleCalculator {
         int result = 0;
         switch (operation) {
             case "+":
-                //implement addition
+                result = firstNumber + secondNumber;
                 break;
             case "-":
                 //implement subtraction
